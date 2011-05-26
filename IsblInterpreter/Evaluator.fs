@@ -34,7 +34,7 @@ and eval (env: Map<string, int>) = function
          loop env e body
     | Seq stmts ->
          List.fold eval env stmts
-    | IfThen (e, stmt) ->
+    | IfThen (e, stmt) -> 
          if evalE env e <> 0 then eval env stmt else env
     | IfThenElse (e, stmt1, stmt2) ->
          if evalE env e <> 0 then eval env stmt1 else eval env stmt2

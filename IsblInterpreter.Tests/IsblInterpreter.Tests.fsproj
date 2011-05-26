@@ -21,6 +21,9 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <WarningLevel>3</WarningLevel>
     <DocumentationFile>bin\Debug\IsblInterpreter.Tests.XML</DocumentationFile>
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Projects\XUnit\xunit.gui.clr4.exe</StartProgram>
+    <StartArguments>c:\Projects\IsblInterpreter\IsblInterpreter.Tests\bin\Debug\IsblInterpreter.Tests.dll</StartArguments>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -42,8 +45,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assign.fs" />
+    <Compile Include="FSharpAssert.fs" />
     <None Include="Script.fsx" />
+    <Compile Include="Assign.fs" />
+    <Compile Include="IfStatement.fs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\IsblInterpreter\IsblInterpreter.fsproj">

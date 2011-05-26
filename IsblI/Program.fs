@@ -10,6 +10,6 @@ let sample = "counter := 100; accum := 0; \n\
               end; \n\
               print accum"
 
-interpret sample
+interpret sample |> ignore
 
 System.Console.ReadKey() |> ignore
