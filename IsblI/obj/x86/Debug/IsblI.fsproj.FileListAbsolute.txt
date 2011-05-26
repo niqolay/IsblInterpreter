@@ -1,0 +1,9 @@
+C:\Projects\IsblInterpreter\IsblI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\IsblInterpreter\IsblI\bin\Debug\IsblI.XML
+C:\Projects\IsblInterpreter\IsblI\bin\Debug\IsblI.exe
+C:\Projects\IsblInterpreter\IsblI\bin\Debug\IsblI.pdb
+C:\Projects\IsblInterpreter\IsblI\bin\Debug\IsblInterpreter.dll
+C:\Projects\IsblInterpreter\IsblI\bin\Debug\IsblInterpreter.pdb
+C:\Projects\IsblInterpreter\IsblI\bin\Debug\IsblInterpreter.xml
+C:\Projects\IsblInterpreter\IsblI\obj\x86\Debug\IsblI.exe
+C:\Projects\IsblInterpreter\IsblI\obj\x86\Debug\IsblI.pdb

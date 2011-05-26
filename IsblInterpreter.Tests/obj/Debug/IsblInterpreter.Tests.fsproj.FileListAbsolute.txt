@@ -1,0 +1,11 @@
+C:\Projects\IsblInterpreter\IsblInterpreter.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\IsblInterpreter\IsblInterpreter.Tests\bin\Debug\IsblInterpreter.Tests.XML
+C:\Projects\IsblInterpreter\IsblInterpreter.Tests\bin\Debug\IsblInterpreter.Tests.dll
+C:\Projects\IsblInterpreter\IsblInterpreter.Tests\bin\Debug\IsblInterpreter.Tests.pdb
+C:\Projects\IsblInterpreter\IsblInterpreter.Tests\bin\Debug\IsblInterpreter.dll
+C:\Projects\IsblInterpreter\IsblInterpreter.Tests\bin\Debug\xunit.dll
+C:\Projects\IsblInterpreter\IsblInterpreter.Tests\bin\Debug\IsblInterpreter.pdb
+C:\Projects\IsblInterpreter\IsblInterpreter.Tests\bin\Debug\IsblInterpreter.xml
+C:\Projects\IsblInterpreter\IsblInterpreter.Tests\bin\Debug\xunit.xml
+C:\Projects\IsblInterpreter\IsblInterpreter.Tests\obj\Debug\IsblInterpreter.Tests.dll
+C:\Projects\IsblInterpreter\IsblInterpreter.Tests\obj\Debug\IsblInterpreter.Tests.pdb
