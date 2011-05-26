@@ -15,7 +15,7 @@ type token =
   | LPAREN
   | RPAREN
   | IF
-  | THEN
+  | ENDIF
   | ELSE
   | INT of (int)
   | ID of (string)
@@ -34,7 +34,7 @@ type tokenId =
     | TOKEN_LPAREN
     | TOKEN_RPAREN
     | TOKEN_IF
-    | TOKEN_THEN
+    | TOKEN_ENDIF
     | TOKEN_ELSE
     | TOKEN_INT
     | TOKEN_ID

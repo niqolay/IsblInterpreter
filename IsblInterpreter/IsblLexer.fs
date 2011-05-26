@@ -13,7 +13,7 @@ let ids = [ ("while",   WHILE);
             ("end",     END);
             ("do",      DO);
             ("if",      IF);
-            ("then",    THEN);
+            ("endif",   ENDIF);
             ("else",    ELSE);
             ("print",   PRINT);]
 

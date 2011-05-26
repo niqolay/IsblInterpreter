@@ -34,10 +34,10 @@ and eval (env: Map<string, int>) = function
          loop env e body
     | Seq stmts ->
          List.fold eval env stmts
-    | IfThen (e, stmt) -> 
-         if evalE env e <> 0 then eval env stmt else env
-    | IfThenElse (e, stmt1, stmt2) ->
-         if evalE env e <> 0 then eval env stmt1 else eval env stmt2
+    | IfThen (e, stmts) -> 
+         if evalE env e <> 0 then List.fold eval env stmts else env
+    | IfThenElse (e, stmts1, stmts2) ->
+         if evalE env e <> 0 then List.fold eval env stmts1 else List.fold eval env stmts2
     | Print e ->
          printf "%d" (evalE env e); env
 
